@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-gray-1: 210, 20%, 90%; /* light theme */
+}
+
+.dark {
+  --color-gray-1-dark: 210, 20%, 30%; /* dark theme */
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root,
+.app {
+  height: 100%;
+  width: 100%;
+  @apply text-sm;
+  @apply bg-white;
+  @apply dark:bg-black;
+}
+
+.placeholder-red::placeholder {
+  color: #f6aaa4;
+}
+
+.placeholder-gray::placeholder {
+  color: #858585;
+}
+
+:root {
+  --border: 210, 10%, 20%;
+  --input: 210, 15%, 95%;
+  --ring: 210, 15%, 85%;
+  --background: 210, 30%, 98%;
+  --foreground: 210, 20%, 10%;
+  --primary: 220, 80%, 50%;
+  --primary-foreground: 220, 100%, 95%;
+  --secondary: 180, 60%, 40%;
+  --secondary-foreground: 180, 70%, 90%;
+  --destructive: 0, 80%, 50%;
+  --destructive-foreground: 0, 100%, 95%;
+  --muted: 210, 10%, 70%;
+  --muted-foreground: 210, 20%, 90%;
+  --accent: 300, 80%, 50%;
+  --accent-foreground: 300, 100%, 95%;
+  --popover: 210, 20%, 96%;
+  --popover-foreground: 210, 10%, 20%;
+  --card: 210, 25%, 99%;
+  --card-foreground: 210, 10%, 15%;
+}
+
+.responsive-heading {
+  font-size: clamp(1rem, 1.5vw, 2rem);
+}
+
+.responsive-paragraph {
+  font-size: clamp(0.7rem, 0.1vw, 1.2rem);
+}
