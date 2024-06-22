@@ -1,0 +1,162 @@
+[
+  {
+    "userId": "c87653f0-e8a1-11e9-81b4-2a2ae2dbcce4",
+    "userName": "JohnDoe",
+    "userEmail": "johndoe@example.com",
+    "role": "applicant",
+    "createdAt": "2024-05-12T16:45:00Z",
+    "updatedAt": "2024-05-12T16:45:00Z"
+  },
+  {
+    "userId": "df3f5c72-3a77-4a55-a37d-b09177b2d345",
+    "userName": "AliceSmith",
+    "userEmail": "alicesmith@example.com",
+    "role": "employer",
+    "createdAt": "2024-05-11T08:30:00Z",
+    "updatedAt": "2024-05-11T08:30:00Z"
+  },
+  {
+    "userId": "e55d2c8f-9a14-45d2-8c8a-6238f315f1e3",
+    "userName": "BobJohnson",
+    "userEmail": "bjohnson@example.com",
+    "role": "applicant",
+    "createdAt": "2024-05-10T15:45:00Z",
+    "updatedAt": "2024-05-10T15:45:00Z"
+  },
+  {
+    "userId": "9c02a87f-2cf1-48f0-a5cf-ae19fb1a68f4",
+    "userName": "EmilyBrown",
+    "userEmail": "emilybrown@example.com",
+    "role": "employer",
+    "createdAt": "2024-05-09T10:00:00Z",
+    "updatedAt": "2024-05-09T10:00:00Z"
+  },
+  {
+    "userId": "a2f1e30b-3827-4748-b0c4-bb0f4e41af63",
+    "userName": "MichaelClark",
+    "userEmail": "michaelclark@example.com",
+    "role": "applicant",
+    "createdAt": "2024-05-08T14:20:00Z",
+    "updatedAt": "2024-05-08T14:20:00Z"
+  },
+  {
+    "userId": "4bba341c-2d14-43e4-9864-447b2254b490",
+    "userName": "SarahWilson",
+    "userEmail": "sarahwilson@example.com",
+    "role": "employer",
+    "createdAt": "2024-05-07T11:30:00Z",
+    "updatedAt": "2024-05-07T11:30:00Z"
+  },
+  {
+    "userId": "f7b558c8-6315-4b50-9cd7-fbce3ad4f0bc",
+    "userName": "ChrisLee",
+    "userEmail": "chrislee@example.com",
+    "role": "applicant",
+    "createdAt": "2024-05-06T09:15:00Z",
+    "updatedAt": "2024-05-06T09:15:00Z"
+  },
+  {
+    "userId": "99e89b92-73fb-42f6-812e-78f097c758c0",
+    "userName": "EmmaTaylor",
+    "userEmail": "emmataylor@example.com",
+    "role": "employer",
+    "createdAt": "2024-05-05T16:40:00Z",
+    "updatedAt": "2024-05-05T16:40:00Z"
+  },
+  {
+    "userId": "cbdbec17-778d-4b62-9e7f-0b16a40bbde7",
+    "userName": "DanielMiller",
+    "userEmail": "danielmiller@example.com",
+    "role": "applicant",
+    "createdAt": "2024-05-04T13:00:00Z",
+    "updatedAt": "2024-05-04T13:00:00Z"
+  },
+  {
+    "userId": "22f8b170-3c2c-4ed2-b0c0-1d5d159bfcf1",
+    "userName": "OliviaJones",
+    "userEmail": "oliviajones@example.com",
+    "role": "employer",
+    "createdAt": "2024-05-03T10:50:00Z",
+    "updatedAt": "2024-05-03T10:50:00Z"
+  },
+  {
+    "userId": "b0ab9530-7f22-48e2-92c5-87b10e5db7f0",
+    "userName": "MatthewYoung",
+    "userEmail": "matthewyoung@example.com",
+    "role": "applicant",
+    "createdAt": "2024-05-02T14:15:00Z",
+    "updatedAt": "2024-05-02T14:15:00Z"
+  },
+  {
+    "userId": "43a53ae1-4dd1-4769-b1e1-9a1bca8e7324",
+    "userName": "SophiaGarcia",
+    "userEmail": "sophiagarcia@example.com",
+    "role": "employer",
+    "createdAt": "2024-05-01T12:30:00Z",
+    "updatedAt": "2024-05-01T12:30:00Z"
+  },
+  {
+    "userId": "0890715d-fb3e-4c22-b199-25b5dc4d3285",
+    "userName": "JamesMartinez",
+    "userEmail": "jamesmartinez@example.com",
+    "role": "applicant",
+    "createdAt": "2024-04-30T09:45:00Z",
+    "updatedAt": "2024-04-30T09:45:00Z"
+  },
+  {
+    "userId": "e59053a1-c861-4e61-aee5-d674fcd0bda0",
+    "userName": "IsabellaLopez",
+    "userEmail": "isabellalopez@example.com",
+    "role": "employer",
+    "createdAt": "2024-04-29T17:00:00Z",
+    "updatedAt": "2024-04-29T17:00:00Z"
+  },
+  {
+    "userId": "3bbfc56f-f3f3-4474-9204-72283daa2a27",
+    "userName": "LoganHernandez",
+    "userEmail": "loganhernandez@example.com",
+    "role": "applicant",
+    "createdAt": "2024-04-28T15:20:00Z",
+    "updatedAt": "2024-04-28T15:20:00Z"
+  },
+  {
+    "userId": "e8d2e76d-b9c4-4d12-8b16-56e063a84744",
+    "userName": "AvaMartinez",
+    "userEmail": "avamartinez@example.com",
+    "role": "employer",
+    "createdAt": "2024-04-27T13:40:00Z",
+    "updatedAt": "2024-04-27T13:40:00Z"
+  },
+  {
+    "userId": "86c26770-c5b4-426f-81ff-9d1fe5b46f3e",
+    "userName": "BenjaminBrown",
+    "userEmail": "benjaminbrown@example.com",
+    "role": "applicant",
+    "createdAt": "2024-04-26T11:00:00Z",
+    "updatedAt": "2024-04-26T11:00:00Z"
+  },
+  {
+    "userId": "1fc16fa8-c5cb-4a8a-98b3-b40b6f943dda",
+    "userName": "MiaWilliams",
+    "userEmail": "miawilliams@example.com",
+    "role": "employer",
+    "createdAt": "2024-04-25T09:30:00Z",
+    "updatedAt": "2024-04-25T09:30:00Z"
+  },
+  {
+    "userId": "4cb0df87-066a-4e27-aaba-0e20d75b451b",
+    "userName": "EthanGarcia",
+    "userEmail": "ethangarcia@example.com",
+    "role": "applicant",
+    "createdAt": "2024-04-24T07:45:00Z",
+    "updatedAt": "2024-04-24T07:45:00Z"
+  },
+  {
+    "userId": "8a57ab8b-45f6-45e1-bc3d-4f8043c0f769",
+    "userName": "CharlotteJohnson",
+    "userEmail": "charlottejohnson@example.com",
+    "role": "employer",
+    "createdAt": "2024-04-23T16:00:00Z",
+    "updatedAt": "2024-04-23T16:00:00Z"
+  }
+]

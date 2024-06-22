@@ -1,0 +1,122 @@
+[
+  {
+    "coverLetterId": "1a2b3c4d-5e6f-7g8h-9i0j-123456789abc",
+    "userId": "c87653f0-e8a1-11e9-81b4-2a2ae2dbcce4",
+    "content": "I am writing to express my interest in the advertised position as it perfectly aligns with my skills and experiences...",
+    "title": "Application for Software Engineer Position",
+    "createdAt": "2024-05-12T15:30:00Z",
+    "updatedAt": "2024-05-12T15:30:00Z"
+  },
+  {
+    "coverLetterId": "2b3c4d5e-6f7g-8h9i-0j1k-23456789abcd",
+    "userId": "df3f5c72-3a77-4a55-a37d-b09177b2d345",
+    "content": "I am excited to apply for the position as it offers the opportunity to utilize my skills and contribute to the team...",
+    "title": "Application for Marketing Manager Position",
+    "createdAt": "2024-05-11T08:30:00Z",
+    "updatedAt": "2024-05-11T08:30:00Z"
+  },
+  {
+    "coverLetterId": "3c4d5e6f-7g8h-9i0j-1k2l-3456789abcde",
+    "userId": "e55d2c8f-9a14-45d2-8c8a-6238f315f1e3",
+    "content": "I am passionate about the opportunity and believe that my background makes me a strong fit for the role...",
+    "title": "Application for Sales Associate Position",
+    "createdAt": "2024-05-10T15:45:00Z",
+    "updatedAt": "2024-05-10T15:45:00Z"
+  },
+  {
+    "coverLetterId": "4d5e6f7g-8h9i-0j1k-2l3m-456789abcdef",
+    "userId": "9c02a87f-2cf1-48f0-a5cf-ae19fb1a68f4",
+    "content": "I am excited about the opportunity to contribute to the company's success and look forward to discussing my qualifications...",
+    "title": "Application for Project Manager Position",
+    "createdAt": "2024-05-09T10:00:00Z",
+    "updatedAt": "2024-05-09T10:00:00Z"
+  },
+  {
+    "coverLetterId": "5e6f7g8h-9i0j-1k2l-3m4n-56789abcdef0",
+    "userId": "a2f1e30b-3827-4748-b0c4-bb0f4e41af63",
+    "content": "I believe my skills and experiences make me a great fit for the position and I am eager to contribute to the team...",
+    "title": "Application for Graphic Designer Position",
+    "createdAt": "2024-05-08T14:20:00Z",
+    "updatedAt": "2024-05-08T14:20:00Z"
+  },
+  {
+    "coverLetterId": "6f7g8h9i-0j1k-2l3m-4n5o-6789abcdef1",
+    "userId": "4bba341c-2d14-43e4-9864-447b2254b490",
+    "content": "I am enthusiastic about the opportunity and am confident in my ability to contribute to the team's success...",
+    "title": "Application for HR Manager Position",
+    "createdAt": "2024-05-07T11:30:00Z",
+    "updatedAt": "2024-05-07T11:30:00Z"
+  },
+  {
+    "coverLetterId": "7h8i9j0k-1l2m-3n4o-5p6q-789abcdef12",
+    "userId": "f7b558c8-6315-4b50-9cd7-fbce3ad4f0bc",
+    "content": "I am excited about the opportunity to contribute my skills and experiences to the company and help achieve its goals...",
+    "title": "Application for Financial Analyst Position",
+    "createdAt": "2024-05-06T09:15:00Z",
+    "updatedAt": "2024-05-06T09:15:00Z"
+  },
+  {
+    "coverLetterId": "8i9j0k1l-2m3n-4o5p-6q7r-89abcdef123",
+    "userId": "99e89b92-73fb-42f6-812e-78f097c758c0",
+    "content": "I am excited about the opportunity and am confident that my skills and experiences make me a strong candidate...",
+    "title": "Application for Marketing Coordinator Position",
+    "createdAt": "2024-05-05T16:40:00Z",
+    "updatedAt": "2024-05-05T16:40:00Z"
+  },
+  {
+    "coverLetterId": "9j0k1l2m-3n4o-5p6q-7r8s-9abcdef1234",
+    "userId": "cbdbec17-778d-4b62-9e7f-0b16a40bbde7",
+    "content": "I am excited about the opportunity to contribute my skills and expertise to the team and help drive success...",
+    "title": "Application for Business Development Manager Position",
+    "createdAt": "2024-05-04T13:00:00Z",
+    "updatedAt": "2024-05-04T13:00:00Z"
+  },
+  {
+    "coverLetterId": "0k1l2m3n-4o5p-6q7r-8s9t-abcdef12345",
+    "userId": "22f8b170-3c2c-4ed2-b0c0-1d5d159bfcf1",
+    "content": "I am enthusiastic about the opportunity and am eager to bring my skills and experiences to the team...",
+    "title": "Application for Operations Manager Position",
+    "createdAt": "2024-05-03T10:50:00Z",
+    "updatedAt": "2024-05-03T10:50:00Z"
+  },
+  {
+    "coverLetterId": "1l2m3n4o-5p6q-7r8s-9t0u-abcdef123456",
+    "userId": "b0ab9530-7f22-48e2-92c5-87b10e5db7f0",
+    "content": "I am confident that my skills and experiences make me a strong candidate for the position and am excited about the opportunity...",
+    "title": "Application for Content Writer Position",
+    "createdAt": "2024-05-02T14:15:00Z",
+    "updatedAt": "2024-05-02T14:15:00Z"
+  },
+  {
+    "coverLetterId": "2m3n4o5p-6q7r-8s9t-0u1v-bcdef1234567",
+    "userId": "43a53ae1-4dd1-4769-b1e1-9a1bca8e7324",
+    "content": "I am excited about the opportunity and am eager to contribute my skills and experiences to the team...",
+    "title": "Application for Customer Service Representative Position",
+    "createdAt": "2024-05-01T12:30:00Z",
+    "updatedAt": "2024-05-01T12:30:00Z"
+  },
+  {
+    "coverLetterId": "3n4o5p6q-7r8s-9t0u-1v2w-cdef12345678",
+    "userId": "0890715d-fb3e-4c22-b199-25b5dc4d3285",
+    "content": "I am enthusiastic about the opportunity and am confident that my skills and experiences make me a strong candidate...",
+    "title": "Application for Executive Assistant Position",
+    "createdAt": "2024-04-30T09:45:00Z",
+    "updatedAt": "2024-04-30T09:45:00Z"
+  },
+  {
+    "coverLetterId": "4o5p6q7r-8s9t-0u1v-2w3x-def123456789",
+    "userId": "e59053a1-c861-4e61-aee5-d674fcd0bda0",
+    "content": "I am excited about the opportunity and am confident that my skills and experiences make me a strong candidate...",
+    "title": "Application for Data Analyst Position",
+    "createdAt": "2024-04-29T17:00:00Z",
+    "updatedAt": "2024-04-29T17:00:00Z"
+  },
+  {
+    "coverLetterId": "5p6q7r8s-9t0u-1v2w-3x4y-ef123456789a",
+    "userId": "3bbfc56f-f3f3-4474-9204-72283daa2a27",
+    "content": "I am excited about the opportunity and am eager to contribute my skills and experiences to the team...",
+    "title": "Application for Web Developer Position",
+    "createdAt": "2024-04-28T15:20:00Z",
+    "updatedAt": "2024-04-28T15:20:00Z"
+  }
+]
